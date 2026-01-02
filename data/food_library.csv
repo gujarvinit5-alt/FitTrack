@@ -1,0 +1,72 @@
+food_name,serving_size,calories,protein,carbs,fats
+Roti (Whole Wheat),1 piece (30g),70,3,15.0,1.0
+Rice (White Cooked),1 cup (200g),200,4,45.0,0.5
+Rice (Brown Cooked),1 cup (200g),215,5,45.0,2.0
+Dal (Mixed),1 cup (240g),180,12,30.0,1.0
+Rajma,1 cup (240g),225,15,40.0,1.0
+Chole,1 cup (240g),210,12,35.0,4.0
+Paneer,100g,265,18,4.0,20.0
+Tofu,100g,145,15,4.0,8.0
+Chicken Breast (Grilled),100g,165,31,0.0,4.0
+Chicken Curry,1 serving (200g),250,25,8.0,12.0
+Chicken Tandoori,100g,150,25,2.0,4.0
+Mutton Curry,1 serving (200g),320,28,5.0,20.0
+Fish (Grilled),100g,140,25,0.0,4.0
+Fish Curry,1 serving (200g),200,22,5.0,10.0
+Egg (Boiled),1 large,70,6,0.5,5.0
+Omelette (2 eggs),1 serving,180,13,2.0,14.0
+Egg Bhurji,1 serving,200,15,5.0,12.0
+Milk (Full Fat),1 cup (240ml),150,8,12.0,8.0
+Milk (Toned),1 cup (240ml),120,8,12.0,4.0
+Curd,1 cup (240g),150,11,17.0,4.0
+Buttermilk,1 cup (240ml),40,2,5.0,1.0
+Banana,1 medium,105,1,27.0,0.0
+Apple,1 medium,95,0,25.0,0.0
+Orange,1 medium,62,1,15.0,0.0
+Mango,1 cup (165g),99,1,25.0,0.0
+Papaya,1 cup (145g),55,1,14.0,0.0
+Watermelon,1 cup (150g),46,1,11.0,0.0
+Grapes,1 cup (150g),104,1,27.0,0.0
+Almonds,10 nuts,70,3,2.0,6.0
+Cashews,10 nuts,90,3,5.0,7.0
+Walnuts,5 halves,65,2,1.0,6.0
+Peanuts,1 tbsp (10g),60,3,2.0,5.0
+Bread (White),1 slice,80,3,15.0,1.0
+Bread (Brown),1 slice,70,3,12.0,1.0
+Paratha,1 piece (100g),280,6,35.0,12.0
+Idli,1 piece,40,2,8.0,0.5
+Dosa (Plain),1 piece,120,4,20.0,2.0
+Dosa (Masala),1 piece,200,6,30.0,6.0
+Upma,1 cup (200g),200,5,35.0,5.0
+Poha,1 cup (200g),180,4,30.0,5.0
+Aloo Paratha,1 piece,300,7,40.0,12.0
+Paneer Paratha,1 piece,350,12,38.0,15.0
+Aloo Sabzi,1 cup (200g),150,3,25.0,5.0
+Mixed Veg Sabzi,1 cup (200g),120,4,18.0,4.0
+Palak Paneer,1 cup (200g),280,15,12.0,18.0
+Samosa,1 piece,250,4,30.0,12.0
+Pakora,1 piece,80,2,8.0,5.0
+Biryani,1 plate (300g),400,15,55.0,12.0
+Pav Bhaji,1 plate,400,10,50.0,15.0
+Vada Pav,1 piece,300,6,40.0,12.0
+Pasta (White Sauce),1 plate (200g),350,10,45.0,15.0
+Pasta (Red Sauce),1 plate (200g),280,8,50.0,6.0
+Pizza (1 slice),1 slice (100g),250,10,30.0,10.0
+Burger,1 piece,450,20,45.0,20.0
+Sandwich (Veg),1 piece,250,8,35.0,8.0
+Momos (Veg),5 pieces,200,6,32.0,5.0
+Momos (Chicken),5 pieces,250,15,28.0,8.0
+Tea (with sugar),1 cup,60,0,14.0,1.0
+Tea (without sugar),1 cup,5,0,1.0,0.0
+Coffee (with sugar),1 cup,65,0,15.0,1.0
+Coffee (without sugar),1 cup,5,0,1.0,0.0
+Biscuits (Marie),2 pieces,60,1,11.0,2.0
+Biscuits (Digestive),2 pieces,80,1,12.0,3.0
+Chocolate,1 bar (40g),210,3,25.0,12.0
+Ice Cream,1 scoop (100g),200,3,24.0,10.0
+Gulab Jamun,1 piece,150,2,25.0,6.0
+Jalebi,1 piece,150,1,30.0,4.0
+Lassi (Sweet),1 glass (250ml),180,5,30.0,5.0
+Protein Shake,1 serving,150,25,10.0,2.0
+Oats,1 cup cooked (240g),150,5,27.0,3.0
+Cornflakes,1 cup (30g),110,2,24.0,0.0

@@ -1,0 +1,93 @@
+exercise_name,category,calories_per_min,description
+Flat Bench Press,Chest,8,Barbell chest press on flat bench
+Incline Bench Press,Chest,8,Upper chest barbell press
+Decline Bench Press,Chest,7,Lower chest barbell press
+Dumbbell Fly,Chest,6,Chest isolation with dumbbells
+Cable Fly,Chest,6,Chest isolation with cables
+Push-ups,Chest,7,Bodyweight chest exercise
+Dumbbell Press,Chest,7,Dumbbell chest press
+Chest Dips,Chest,8,Bodyweight chest dip exercise
+Pec Deck Machine,Chest,6,Machine chest fly
+Close Grip Bench Press,Chest,7,Tricep focused bench press
+Pull-ups,Back,8,Bodyweight back exercise
+Chin-ups,Back,8,Underhand grip pull-ups
+Lat Pulldown,Back,7,Machine back exercise
+Wide Grip Pulldown,Back,7,Wide grip lat pulldown
+Barbell Rows,Back,8,Bent over barbell rows
+T-Bar Rows,Back,8,T-bar rowing exercise
+Dumbbell Rows,Back,7,Single arm dumbbell rows
+Seated Cable Rows,Back,7,Seated cable rowing
+Deadlifts,Back,9,Full body compound lift
+Face Pulls,Back,5,Rear delt and upper back
+Hyperextensions,Back,6,Lower back exercise
+Shrugs,Back,5,Trap development
+Barbell Squats,Legs,8,Back squat with barbell
+Front Squats,Legs,8,Front rack squat position
+Leg Press,Legs,7,Machine leg press
+Hack Squats,Legs,7,Hack squat machine
+Lunges,Legs,7,Walking or stationary lunges
+Bulgarian Split Squats,Legs,7,Single leg squat variation
+Leg Extensions,Legs,5,Quad isolation machine
+Leg Curls,Legs,5,Hamstring isolation machine
+Romanian Deadlifts,Legs,8,Hip hinge hamstring exercise
+Stiff Leg Deadlifts,Legs,8,Straight leg deadlift variation
+Calf Raises Standing,Legs,4,Standing calf raises
+Calf Raises Seated,Legs,4,Seated calf raises
+Goblet Squats,Legs,7,Dumbbell front squat
+Box Jumps,Legs,9,Plyometric leg exercise
+Wall Sits,Legs,5,Isometric leg hold
+Overhead Press,Shoulders,7,Standing barbell shoulder press
+Seated Shoulder Press,Shoulders,7,Seated barbell press
+Dumbbell Shoulder Press,Shoulders,7,Seated dumbbell press
+Arnold Press,Shoulders,7,Rotating dumbbell press
+Lateral Raises,Shoulders,5,Side delt isolation
+Front Raises,Shoulders,5,Front delt isolation
+Rear Delt Fly,Shoulders,5,Rear shoulder isolation
+Face Pulls,Shoulders,5,Rear delt cable exercise
+Upright Rows,Shoulders,6,Trap and shoulder exercise
+Shrugs,Shoulders,5,Trap isolation
+Military Press,Shoulders,7,Strict overhead press
+Cable Lateral Raises,Shoulders,5,Cable side delt
+Barbell Curls,Arms,5,Standing barbell bicep curls
+Dumbbell Curls,Arms,5,Alternating dumbbell curls
+Hammer Curls,Arms,5,Neutral grip bicep curls
+Preacher Curls,Arms,5,Preacher bench curls
+Cable Curls,Arms,5,Cable bicep curls
+Concentration Curls,Arms,5,Seated single arm curls
+EZ Bar Curls,Arms,5,EZ bar bicep curls
+Tricep Pushdowns,Arms,5,Cable tricep extensions
+Overhead Tricep Extension,Arms,5,Dumbbell overhead extension
+Skull Crushers,Arms,5,Lying tricep extensions
+Tricep Dips,Arms,7,Bodyweight tricep dips
+Close Grip Bench,Arms,7,Tricep focused bench press
+Diamond Push-ups,Arms,6,Tricep focused push-ups
+Tricep Kickbacks,Arms,4,Dumbbell tricep isolation
+Planks,Core,6,Front plank hold
+Side Planks,Core,6,Lateral plank hold
+Crunches,Core,5,Basic abdominal crunches
+Bicycle Crunches,Core,6,Rotating ab exercise
+Russian Twists,Core,6,Oblique rotation exercise
+Leg Raises,Core,6,Lower ab exercise
+Hanging Leg Raises,Core,7,Advanced lower ab
+Mountain Climbers,Core,9,Dynamic core cardio
+Ab Wheel Rollouts,Core,7,Advanced ab exercise
+Cable Crunches,Core,6,Weighted ab crunches
+Reverse Crunches,Core,5,Lower ab focused
+V-Ups,Core,7,Full ab engagement
+Dead Bug,Core,5,Core stability exercise
+Treadmill Running,Cardio,10,Running on treadmill
+Outdoor Running,Cardio,11,Running outside
+Sprints,Cardio,13,High intensity sprinting
+Cycling,Cardio,8,Stationary or outdoor bike
+Elliptical,Cardio,9,Low-impact cardio machine
+Rowing Machine,Cardio,10,Full body cardio
+Jump Rope,Cardio,12,High-intensity cardio
+Burpees,Cardio,11,Full body explosive exercise
+Box Jumps,Cardio,10,Plyometric jumps
+Mountain Climbers,Cardio,9,Dynamic cardio exercise
+Walking,Cardio,4,Low-intensity walking
+Stair Climber,Cardio,9,Stair climbing machine
+Swimming,Cardio,10,Full body water exercise
+Boxing,Cardio,11,Combat cardio workout
+Jumping Jacks,Cardio,7,Basic cardio warm-up
+High Knees,Cardio,8,Running in place

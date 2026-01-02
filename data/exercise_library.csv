@@ -1,0 +1,46 @@
+exercise_name,category,calories_per_min,description
+Push-ups,Chest,7,Bodyweight chest exercise
+Bench Press,Chest,8,Barbell chest press
+Dumbbell Press,Chest,7,Dumbbell chest exercise
+Cable Flys,Chest,6,Cable chest isolation
+Incline Bench Press,Chest,8,Upper chest exercise
+Pull-ups,Back,8,Bodyweight back exercise
+Lat Pulldown,Back,7,Machine back exercise
+Barbell Rows,Back,8,Rowing movement for back
+Deadlifts,Back,9,Full body compound lift
+Seated Cable Rows,Back,7,Cable rowing exercise
+T-Bar Rows,Back,8,Back thickness exercise
+Squats,Legs,8,Barbell squat
+Lunges,Legs,7,Single leg exercise
+Leg Press,Legs,7,Machine leg exercise
+Leg Curls,Legs,5,Hamstring isolation
+Leg Extensions,Legs,5,Quad isolation
+Calf Raises,Legs,4,Calf muscle exercise
+Romanian Deadlifts,Legs,8,Hamstring exercise
+Overhead Press,Shoulders,7,Shoulder press
+Lateral Raises,Shoulders,5,Side shoulder exercise
+Front Raises,Shoulders,5,Front shoulder exercise
+Rear Delt Flys,Shoulders,5,Rear shoulder exercise
+Shrugs,Shoulders,5,Trap exercise
+Bicep Curls,Arms,5,Bicep isolation
+Tricep Extensions,Arms,5,Tricep isolation
+Hammer Curls,Arms,5,Alternative bicep exercise
+Tricep Dips,Arms,7,Bodyweight tricep exercise
+Cable Curls,Arms,5,Cable bicep exercise
+Planks,Core,6,Core stability hold
+Crunches,Core,5,Abdominal exercise
+Russian Twists,Core,6,Oblique exercise
+Leg Raises,Core,6,Lower ab exercise
+Mountain Climbers,Core,9,Dynamic core exercise
+Bicycle Crunches,Core,6,Core rotation exercise
+Treadmill,Cardio,10,Running on treadmill
+Cycling,Cardio,8,Stationary or outdoor cycling
+Elliptical,Cardio,9,Low-impact cardio machine
+Jump Rope,Cardio,12,High-intensity cardio
+Burpees,Cardio,11,Full body cardio exercise
+Running,Cardio,11,Outdoor running
+Walking,Cardio,4,Low-intensity cardio
+Stair Climber,Cardio,9,Stair climbing machine
+Rowing Machine,Cardio,10,Full body cardio
+Boxing,Cardio,11,Combat cardio workout
+Swimming,Cardio,10,Full body water exercise
